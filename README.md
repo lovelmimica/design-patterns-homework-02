@@ -26,11 +26,14 @@ The pattern is used to deep copy dive objects for purpose of calculating seructi
 ###Singleton
 The pattern is used to enforce uniqueness for particular objects of RandomNumberGenerator, DivingClub and AgencyFactorySingletonDecorator. In class diagram, this pattern is market with ***pink***. 
 ###Composite
-The patterns is used for composing dives and tables (which both are composed of same type parts). In class diagram, this pattern is market with ***gray***. 
+The patterns is used for composing dives and tables (which both are composed of same type parts). In class diagram, this pattern is marked with ***gray***. 
 ###Decorator
-The patterns is used for extending the functionality of AgencyFactory in the way that decorated factory (AgencyFactroySingletonDecorator) enforce uniqueness of each agency which it created (in other words, decorated factory creates instance of agency only when is agency first time called, after what agency is stored in application memory and reused). In class diagram, this pattern is market with ***violet***. 
+The patterns is used for extending the functionality of AgencyFactory in the way that decorated factory (AgencyFactroySingletonDecorator) enforce uniqueness of each agency which it created (in other words, decorated factory creates instance of agency only when is agency first time called, after what agency is stored in application memory and reused). In class diagram, this pattern is marked with ***violet***. 
 ###Observer
-The pattern is used for reporting to institutions about divers and their dives. In class diagram, this pattern is market with ***green***. 
+The pattern is used for reporting to institutions about divers and their dives. In class diagram, this pattern is marked with ***green***. 
 ###Builder
-The pattern is used for creating table objects (which are relatively complex and exists in two alternative forms). In class diagram, this pattern is market with ***orange***. 
+The pattern is used for creating table objects (which are relatively complex and exists in two alternative forms). In class diagram, this pattern is marked with ***orange***. 
 ###Template Method
+The patterns is used for organization of dives according to three offered algorithms. In class diagram, this pattern is marked with ***yellow***.  
+
+###Class Diagram
