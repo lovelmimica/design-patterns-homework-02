@@ -1,4 +1,4 @@
-# design-patterns-homework_02
+# design-patterns-homework-02
 Homework assignment is to create application with specifications as those in following lines, which also should contain implementation of some GOF design patterns. 
 
 ##Funcitonal requirements
