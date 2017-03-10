@@ -17,3 +17,14 @@ At the end of program execution, in tabular form should be displayed:
 - statistics of all dives (total, average depth, a total of divers per category) by agency and by the National Diving Association 
 
 Before executing the program user inputs the seed for the random number generator (min 3 digits), divers file name, dives file name, the name of the class that represents algotirhm_1, algorithm_2 and algorithm_3, and the name of the output file. 
+
+##Used design patterns
+###Factory Method
+Pattern is used for creating proliferated diver agencies and for creating alternative algorithms for dive organization. In class diagram, this pattern is market with ###brown. 
+###Prototype
+###Singleton
+###Composite
+###Decorator
+###Observer
+###Builder
+###Template Method
