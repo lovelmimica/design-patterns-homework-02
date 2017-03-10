@@ -20,11 +20,11 @@ Before executing the program user inputs the seed for the random number generato
 
 ##Used design patterns
 ###Factory Method
-The pattern is used for creating proliferated diver agencies and for creating alternative algorithms for dive organization. In class diagram, this pattern is market with ***brown***. 
+The pattern is used for creating proliferated diver agencies and for creating alternative algorithms for dive organization. In class diagram, this pattern is marked with ***brown***. 
 ###Prototype 
-The pattern is used to deep copy dive objects for purpose of calculating seructiy rate for each organization variant. In class diagram, this pattern is market with ***red***. 
+The pattern is used to deep copy dive objects for purpose of calculating seructiy rate for each organization variant. In class diagram, this pattern is marked with ***red***. 
 ###Singleton
-The pattern is used to enforce uniqueness for particular objects of RandomNumberGenerator, DivingClub and AgencyFactorySingletonDecorator. In class diagram, this pattern is market with ***pink***. 
+The pattern is used to enforce uniqueness for particular objects of RandomNumberGenerator, DivingClub and AgencyFactorySingletonDecorator. In class diagram, this pattern is marked with ***pink***. 
 ###Composite
 The patterns is used for composing dives and tables (which both are composed of same type parts). In class diagram, this pattern is marked with ***gray***. 
 ###Decorator
