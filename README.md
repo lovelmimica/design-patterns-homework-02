@@ -37,3 +37,4 @@ The pattern is used for creating table objects (which are relatively complex and
 The patterns is used for organization of dives according to three offered algorithms. In class diagram, this pattern is marked with ***yellow***.  
 
 ##Class Diagram
+f
